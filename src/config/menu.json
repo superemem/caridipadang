@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "Wisata",
+      "url": "/categories/wisata"
+    },
+    {
       "name": "Contact",
       "url": "/contact"
     },
@@ -36,6 +40,10 @@
         {
           "name": "Privacy Policy",
           "url": "/privacy-policy"
+        },
+        {
+          "name": "Wisata",
+          "url": "/categories/wisata"
         }
       ]
     }

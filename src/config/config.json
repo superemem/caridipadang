@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Cari di Padang | informasi tentang Kota Padang dan Sumatera Barat",
+    "base_url": "https://caridipadang.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -17,18 +17,18 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Emen",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Temukan informasi tentang Kota Padang dan Sumatera Barat"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 by Emen (https://themefisher.com)"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "address": "Jalan Paus IV No. 6 <br/> Kota Padang, Sumatera Barat",
     "email": "info@bookworm.org",
     "phone": "+800 567 1234"
   }

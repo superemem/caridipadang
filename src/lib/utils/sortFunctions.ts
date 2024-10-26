@@ -1,25 +1,26 @@
-// sort by date
+// Mengurutkan berdasarkan tanggal
 export const sortByDate = (array: any[]) => {
-  const sortedArray = array.sort(
-    (a:any, b:any) =>
-      new Date(b.data.date && b.data.date) -
-      new Date(a.data.date && a.data.date)
-  );
+  const sortedArray = array.sort((a: any, b: any) => {
+    const dateA = new Date(a.data.date).getTime();
+    const dateB = new Date(b.data.date).getTime();
+    return dateB - dateA;
+  });
   return sortedArray;
 };
 
-// sort product by weight
-export const sortByWeight = (array: any[]) => {
+// Mengurutkan produk berdasarkan berat
+export const sortByWeight = (
+  array: { data: { weight: number | null | undefined } }[],
+) => {
   const withWeight = array.filter(
-    (item: { data: { weight: any } }) => item.data.weight
+    (item) => typeof item.data.weight === "number",
   );
-  const withoutWeight = array.filter(
-    (item: { data: { weight: any } }) => !item.data.weight
-  );
-  const sortedWeightedArray = withWeight.sort(
-    (a: { data: { weight: number } }, b: { data: { weight: number } }) =>
-      a.data.weight - b.data.weight
-  );
-  const sortedArray = [...new Set([...sortedWeightedArray, ...withoutWeight])];
+  const withoutWeight = array.filter((item) => item.data.weight == null);
+
+  const sortedWeightedArray = withWeight.sort((a, b) => {
+    return a.data.weight! - b.data.weight!;
+  });
+
+  const sortedArray = [...sortedWeightedArray, ...withoutWeight];
   return sortedArray;
 };

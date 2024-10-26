@@ -1,4 +1,4 @@
 ---
-title: "Contact"
+title: "Hubungi Kami"
 draft: false
 ---
