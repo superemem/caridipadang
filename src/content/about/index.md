@@ -1,23 +1,22 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "Sekilas Tentang Cari di Padang"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/logo-cari-di-padang.png"
 draft: false
-
-what_i_do:
-  title: "What I Do"
-  items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Cari di Padang dulunya bernama dotpadang.com, sebuah website yang dibuat oleh Irfan Mursyidin (saya sendiri), pada tahun 2022 untuk keperluan tugas akhir bootcamp SEO Specialist di belajarlagi.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Dotpadang sendiri dulunya merupakan sebuah situs yang menyajikan berbagai informasi seputar Kota Padang dan Sumatera Barat, mulai dari kuliner, penginapan atau tempat-tempat penting lainnya.
+
+Seiring berjalannya waktu, Saya merasa perlu untuk mengubah bisnis modelnya, karena belakangan saya melihat orang-orang dari luar Sumatera Barat yang datang ke Kota Padang tidak tau kemana mereka mencari informasi yang dibutuhkan.
+
+Ada beberapa informasi penting seperti akomodasi, transportasi, tempat kuliner, tempat membeli oleh-oleh, tersebar dari mulut ke mulu atau di media sosial dan tidak terpusat di satu titik.
+
+Masalah ini kemudian membuat saya mentransformasi dotpadang menjadi caridipadang. Sederhananya website ini merupakan kumpulan informasi yang dicari dan dibutuhkan ketika orang-orang datang ke Kota Padang.
+
+Di website ini, diharapkan teman-teman bisa mendapatkan informasi yang teman-teman Cari di Padang. Cari kuliner di Kota Padang, lokasi wisata, akomodasi di Kota Padang, penginapan di Kota Padang dan berbagai informasi penting lainnya.
+
+Karena website ini baru dan masih dalam pengembangan, teman-teman bisa memberikan feedback melalui email halo@emen.web.id.
+
+Terima Kasih dan semoga website ini bermanfaat buat teman-teman yang berkunjung dan menemukan informasi yang dibutuhkan.

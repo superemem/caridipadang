@@ -17,7 +17,7 @@
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Lainnya",
       "url": "",
       "hasChildren": true,
       "children": [
@@ -56,10 +56,6 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     },
     {
       "name": "Privacy Policy",
