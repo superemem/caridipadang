@@ -13,7 +13,7 @@ const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
-const { title, description, authors, categories, image, date, tags } =
+const { title, description, authors, categories, image, figcaption, date, tags } =
   post.data;
 ---
 
@@ -90,6 +90,7 @@ const { title, description, authors, categories, image, date, tags } =
           )
         }
       </div>
+      <p class="text-center">{figcaption}</p>
 
       <div class="md:col-10">
         <div class="content mb-16 text-left">
