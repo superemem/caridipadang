@@ -4,7 +4,7 @@ description: "meta description"
 date: 2022-04-01T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["Wisata"]
-authors: ["Mark Dinn"]
+authors: ["Emen"]
 tags: ["diy", "toy"]
 draft: false
 ---

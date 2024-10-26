@@ -4,11 +4,11 @@
     "base_url": "https://caridipadang.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/logo-cari-di-padang.png",
+    "logo": "/images/logo-cari-di-padang.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Cari di Padang"
   },
 
   "settings": {
@@ -18,18 +18,18 @@
 
   "metadata": {
     "meta_author": "Emen",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/images/logo-cari-di-padang.png",
     "meta_description": "Temukan informasi tentang Kota Padang dan Sumatera Barat"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2024 by Emen (https://themefisher.com)"
+    "copyright": "Copyright © 2024 by Emen (https://emen.web.id)"
   },
 
   "contactinfo": {
     "address": "Jalan Paus IV No. 6 <br/> Kota Padang, Sumatera Barat",
-    "email": "info@bookworm.org",
+    "email": "halo@emen.web.id",
     "phone": "+800 567 1234"
   }
 }
