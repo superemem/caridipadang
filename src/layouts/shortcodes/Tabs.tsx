@@ -1,8 +1,12 @@
+The issue with the code is that the `mangle` property is not a valid property for the `MarkedExtension` type. The `mangle` property is not a standard option for the `marked` library, and it's not clear what it's intended to do.
+
+To fix the error, you can simply remove the `mangle` property from the `marked.use` options. Here is the corrected code:
+
+```tsx
 import { marked } from "marked";
 import React, { useEffect, useRef, useState } from "react";
 
 marked.use({
-  mangle: false,
   headerIds: false,
 });
 
