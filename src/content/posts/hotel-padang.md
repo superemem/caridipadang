@@ -6,7 +6,7 @@ image: "/images/posts/hotel-padang.webp"
 figcaption: "sumber gambar : website Hotel Padang"
 draft: false
 authors: ["Emen"]
-tags: ["Alarm", "Clock"]
+tags: ["Hotel", "Penginapan"]
 categories: ["Penginapan"]
 ---
 
