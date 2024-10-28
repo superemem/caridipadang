@@ -1,7 +1,7 @@
 ---
 title: "Rekomendasi Tempat Makan Enak di Padang, Cocok Untuk Awam"
 description: "ekomendasi tempat makan di Padang yang kami pilih berikut ini, cocok untuk Kamu yang datang ke Kota Padang sendirian atau tanpa dipandu warga lokal."
-date: 2024-10-27T05:00:00Z
+date: 2024-10-27T07:00:00Z
 image: "/images/posts/lamun-ombak.webp"
 figcaption: "sumber gambar : Google Business Lamun Ombak"
 categories: ["Kuliner"]
