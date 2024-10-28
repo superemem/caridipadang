@@ -8,6 +8,7 @@ import { defineConfig, squooshImageService } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
+import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
 export default defineConfig({
@@ -23,6 +24,11 @@ export default defineConfig({
     tailwind({
       config: {
         applyBaseStyles: false,
+      },
+    }),
+    partytown({
+      config: {
+        forward: ["dataLayer.push"],
       },
     }),
     AutoImport({
