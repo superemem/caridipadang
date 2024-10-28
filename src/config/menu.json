@@ -5,16 +5,20 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
       "name": "Wisata",
       "url": "/categories/wisata"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Transportasi",
+      "url": "/categories/transportasi"
+    },
+    {
+      "name": "Penginapan",
+      "url": "/categories/penginapan"
+    },
+    {
+      "name": "Kuliner",
+      "url": "/categories/kuliner"
     },
     {
       "name": "Lainnya",
