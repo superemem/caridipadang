@@ -1,5 +1,5 @@
-<h1 align=center>Bookworm Light Astro</h1>
-<p align=center>Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use free Astro blog theme.</p>
+<h1 align=center>Cari di Padang</h1>
+<p align=center>Website tempat Kamu menemukan dan mencari informasi tentang Kota Padang dan Sumatera Barat.</p>
 <h2 align="center"> <a target="_blank" href="https://bookworm-light-astro.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbookworm-light-astro.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
 </h2>
 
@@ -19,7 +19,7 @@
 
 ![bookworm-light](https://demo.gethugothemes.com/thumbnails/bookworm-light.png)
 
-Bookworm Light is a minimal multi-author free Astro blog theme which is perfect for any kind of blog website. Whether you're interested in food, beauty, travel, photography, lifestyle, fitness, health, or other topics, this theme is a great fit. The theme is super fast and SEO friendly which makes it easier for your content to be discovered by search engines.
+Cari di Padang adalah sebuah website travel guide untuk para traveller dan orang-orang yang berkunjung ke Kota Padang atau Sumatera Barat. Di website ini user bisa menemukan berbagai informasi yang mereka butuhkan tentang Kota Padang atau Sumatera Barat.
 
 ## 🔑Key Features
 
@@ -43,6 +43,7 @@ Bookworm Light is a minimal multi-author free Astro blog theme which is perfect 
 - 🔍 SEO Friendly
 
 <!-- installation -->
+
 ## 🔧Installation
 
 After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
@@ -78,12 +79,14 @@ npm run build
 ```
 
 <!-- reporting issue -->
+
 ## 🐞Reporting Issues
 
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/bookworm-light-astro/issues). It’s possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/bookworm-light-astro/issues).
 
 <!-- licence -->
+
 ## 📄License
 
 Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
