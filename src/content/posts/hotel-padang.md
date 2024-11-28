@@ -1,6 +1,6 @@
 ---
 title: "Hotel Padang, Hotel Bintang 2 Terbaik dan Bersejarah di Kota Padang"
-description: "meta description"
+description: "Jika Kamu mencari hotel bintang 2 di Padang, Hotel Padang adalah salah satu rekomendasi terbaik."
 date: 2022-04-06T16:56:47+06:00
 image: "/images/posts/hotel-padang.webp"
 figcaption: "sumber gambar : website Hotel Padang"

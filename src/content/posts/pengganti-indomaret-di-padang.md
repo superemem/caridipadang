@@ -3,7 +3,7 @@ title: "Pengganti Indomaret dan Alfamart di Kota Padang"
 description: "Buat Kamu yang pertama kali ke Kota Padang, berikut pengganti Indomaret di Kota Padang"
 date: 2024-10-27T05:00:00Z
 image: "/images/posts/indomaret.webp"
-figcaption: "sumbar gambar : wikipedia common"
+figcaption: "sumber gambar : wikipedia common"
 categories: ["Lainnya"]
 authors: ["Emen"]
 tags: ["indomaret", "alfamart"]
